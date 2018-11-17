@@ -1,0 +1,44 @@
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.calc {
+  width: 400px;
+  height: 600px;
+  background-color: red;
+  &-buttons {
+    display: flex;
+    height: 100px;
+  }
+  &-display {
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    color: #fff;
+    outline: 1px solid black;
+    line-height: 100px;
+    text-align: right;
+    font-size: 36px;
+  }
+  &-button {
+    text-align: center;
+    line-height: 100px;
+    outline: 1px solid black;
+    width: 25%;
+  }
+  &-buttons-clear {
+    width: 75%;
+  }
+  &-buttons-divide {
+    width: 25%;
+  }
+  &-buttons-0 {
+    width: 75%;
+  }
+  &-calc-buttons-equals {
+    width: 25%;
+  }
+}
