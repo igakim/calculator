@@ -13,5 +13,7 @@ If you have any advice i'll be appreciated.
 
 ...feature
 
+... feature 2
+
 ## You can check how it works
 [http://igakim-calc.surge.sh](http://igakim-calc.surge.sh)
