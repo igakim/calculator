@@ -23,6 +23,8 @@ If you have any advice i'll be appreciated.
 
 ...feature7.
 
+...feature 9.
+
 ## You can check how it works
 
 [http://igakim-calc.surge.sh](http://igakim-calc.surge.sh)
