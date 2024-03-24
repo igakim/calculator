@@ -11,5 +11,7 @@ I'm learning development and didn't build any business apps.
 
 If you have any advice i'll be appreciated.
 
+...feature
+
 ## You can check how it works
 [http://igakim-calc.surge.sh](http://igakim-calc.surge.sh)
